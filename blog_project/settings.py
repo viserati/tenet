@@ -13,7 +13,7 @@ SECRET_KEY = 'ua40(n_b&k_%(t=b7lxmw&yyv*=&3gl^t#3jb^@$16+*nwb!!#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
